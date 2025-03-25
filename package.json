@@ -1,0 +1,34 @@
+{
+  "name": "hack-the-gap-gigfusion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.8",
+    "@mui/material": "^6.4.8",
+    "framer-motion": "^12.5.0",
+    "nodemailer": "^6.10.0",
+    "path": "^0.12.7",
+    "react-dropzone": "^14.3.8",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "react-toastify": "^11.0.5",
+    "react-top-loading-bar": "^3.0.2",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "url": "^0.11.4",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "daisyui": "^5.0.9"
+  }
+}
